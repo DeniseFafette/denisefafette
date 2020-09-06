@@ -8,8 +8,8 @@ I'm a product designer and developer based in the San Francisco Bay Area
 - 🎧 I'm working on my portfolio to showcase my product collaborations
 
 
-#BlackLivesMatter
-#Vote
+[#BlackLivesMatter](https://blacklivesmatter.com)
+[#Vote] (https://www.vote.org/)
 
 <!--
 **DeniseFafette/denisefafette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
