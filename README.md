@@ -1,8 +1,8 @@
 # Hi, I'm Denise
 
 I'm a product designer and developer based in the San Francisco Bay Area
-- 🌏 Pronouns: [she/her](https://pronoun.is/she)
-- 😄 Inclusivity, curiosity and coffee spark my designs
+- 😄 Pronouns: [she/her](https://pronoun.is/she)
+- 🌏 Inclusivity, curiosity and coffee spark my designs
 - 🌱 I'm learning Python while exploring machine learning
 - 🎧 I'm working on my portfolio to showcase my product collaborations
 
