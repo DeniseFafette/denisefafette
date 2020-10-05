@@ -4,7 +4,7 @@ I'm a product designer and developer based in the San Francisco Bay Area
 - 😄 Pronouns: [she/her](https://pronoun.is/she)
 - 🌏 Inclusivity, curiosity and coffee spark my designs
 - 🌱 I'm learning Python while exploring machine learning
-- 🎧 I'm working on my [portfolio](denisefafette.design) to showcase my product collaborations
+- 🎧 I'm working on my [portfolio](https://www.denisefafette.design/) to showcase my product collaborations
 
 
 [#BlackLivesMatter](https://blacklivesmatter.com)
